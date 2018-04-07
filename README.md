@@ -4,5 +4,5 @@
 
 https://test-json-mock.herokuapp.com/
 
-* GET /comment
-* POST /comment
+* GET /comments
+* POST /comments
